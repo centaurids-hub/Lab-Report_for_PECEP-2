@@ -11,6 +11,7 @@
 ## Overview
 This activity contains beginner-friendly Python programs related to:
 
+- Number System
 - Probability
 - Combination
 - Permutation
