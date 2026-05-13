@@ -1,4 +1,4 @@
-# Fundamentals of ICT – Probability and Statistics Activity
+# Fundamentals of ICT – Lab Report
 
 **Student:** Jesier Cresencio  
 
